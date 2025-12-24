@@ -1,94 +1,110 @@
 :root{
-    --title-shadow-color: #0000ff;
-    --title-color: #da70d6;
-    --title-border-color: #ff0000;
+    --pokemon-art-shopping-website-title-shadow-color: #0000ff;
+    --pokemon-art-shopping-website-title-color: #da70d6;
+    --pokemon-art-shopping-website-title-border-color: #ff0000;
+    --pokemon-art-shopping-website-nav-text-shadow-color: #ffa500;
+    --pokemon-art-shopping-website-nav-border-color: #fa8072;
+    --pokemon-art-shopping-website-box-bg-color: #ffebcd;
+    --pokemon-art-shopping-website-box-color: #8b4513;
+    --pokemon-art-shopping-website-box-border-color: #800008;
+    --pokemon-art-shopping-website-contact-link-border-color: #808000;
+    --pokemon-art-shopping-website-email-and-portfolio-link-shadow-color: #ffff00;
+    --pokemon-art-shopping-website-email-and-portfolio-link-color: #00ffff;
+    --pokemon-art-shopping-website-ninetailes-section-color: #ff4500;
+    --pokemon-art-shopping-website-northern-lights-section-bg-color: #00008b;
+    --pokemon-art-shopping-website-family-section-bg-color: #d2691e;
+    --pokemon-art-shopping-website-family-section-color: #daa520;
+    --pokemon-art-shopping-website-autumn-section-color: #cd853f;
+    --pokemon-art-shopping-website-headquarters-section-bg-color: #696969;
+    --pokemon-art-shopping-website-headquarters-section-color: #7cfc00;
+    --pokemon-art-shopping-website-bonding-section-bg-color: #87cefa;
 }
 html{
     background-image: url("https://tse3.mm.bing.net/th/id/OIP.dKz7ru7-DKlfIM83dvbpLgHaHa?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3");
 }
-h1{ text-shadow: 2px 2px var(--title-shadow-color);
+h1{ text-shadow: 2px 2px var(--pokemon-art-shopping-website-title-shadow-color);
     font-size: 50pt;
-    color: var(--title-color);
-    border: 5px solid var(--title-border-color);
+    color: var(--pokemon-art-shopping-website-title-color);
+    border: 5px solid var(--pokemon-art-shopping-website-title-border-color);
 }
 p, li{
     font-size:20pt;
 }
 #header{
-    text-shadow: 2px 2px var(--title-shadow-color);
+    text-shadow: 2px 2px var(--pokemon-art-shopping-website-title-shadow-color);
     font-size: 50pt;
-    color: var(--title-color);
+    color: var(--pokemon-art-shopping-website-title-color);
 }
 nav{
-    text-shadow: 1px 0px #ffa500;
+    text-shadow: 1px 0px var(--pokemon-art-shopping-website-nav-text-shadow-color);
     font-size: 20pt;
-    border: 5px solid #fa8072;
+    border: 5px solid var(--pokemon-art-shopping-website-nav-border-color);
 }
 #description, #special,#artpieces{
-    background-color: #ffebcd;
+    background-color: var(--pokemon-art-shopping-website-box-bg-color);
     padding:15px 10px;
-    color:#8b4513;
+    color: var(--pokemon-art-shopping-website-box-color);
     font-family:Brush Script MT, Brush Script Std, cursive;
     font-size:65 pt;
-    border:5px solid #800008;
+    border:5px solid var(--pokemon-art-shopping-website-box-border-color);
 }
 #contact{
-    text-shadow: 2px 2px #0000ff;
+    text-shadow: 2px 2px var(--pokemon-art-shopping-website-title-shadow-color);
     font-size: 20pt;
-    color:#da70d6;
-    border: 5px solid #808000;
+    color: var(--pokemon-art-shopping-website-title-color);
+    border: 5px solid var(--pokemon-art-shopping-website-contact-link-border-color);
 }
 #home{
     position: initial;
     left: 100px;
     top: 150;
-    text-shadow: 2px 2px #0000ff;
-    color:#da70d6;
+    text-shadow: 2px 2px var(--pokemon-art-shopping-website-title-shadow-color);
+    color: var(--pokemon-art-shopping-website-title-color);
     font-size: 30pt;
 }
 #price{
-    text-shadow: 2px 2px #0000ff;
-    color:#da70d6;
+    text-shadow: 2px 2px var(--pokemon-art-shopping-website-title-shadow-color);
+    color: var(--pokemon-art-shopping-website-title-color);
     font-size: 30pt;
 }
 #ninetalesDescription, #bondDescription{
-    background-color: #ffebcd;
+    background-color: var(--pokemon-art-shopping-website-box-bg-color);
     padding:15px 10px;
-    color:#8b4513;
+    color: var(--pokemon-art-shopping-website-box-color);
     font-family:Brush Script MT, Brush Script Std, cursive;
     font-size:105 pt;
-    border:5px solid #800008;
+    border:5px solid var(--pokemon-art-shopping-website-box-border-color);
 }
 #email, #storage_link{
-    text-shadow: 2px 2px #ffff00;
+    text-shadow: 2px 2px var(--pokemon-art-shopping-website-email-and-portfolio-link-shadow-color);
     font-size: 20pt;
-    color:#00ffff;
+    color: var(--pokemon-art-shopping-website-email-and-portfolio-link-color);
 }
 #ninetales{
-    background-color: #00ffff;
-    color:#ff4500;
+    background-color: var(--pokemon-art-shopping-website-email-and-portfolio-link-color);
+    color: var(--pokemon-art-shopping-website-ninetailes-section-color);
 }
 #northernLights{
-    background-color:#00008b;
-    color:#00ffff;
+    background-color: var(--pokemon-art-shopping-website-northern-lights-section-bg-color);
+    color: var(--pokemon-art-shopping-website-email-and-portfolio-link-color);
 }
 #family{
-    background-color:#d2691e;
-    color:#daa520;
+    background-color: var(--pokemon-art-shopping-website-family-section-bg-color);
+    color: var(--pokemon-art-shopping-website-family-section-color);
 }
 #autumn{
-    background-color: #ff4500;
-    color:#cd853f;
+    background-color: var(--pokemon-art-shopping-website-ninetailes-section-color);
+    color: var(--pokemon-art-shopping-website-autumn-section-color);
 }
 #hq{
-    background-color:#696969;
-    color:#7cfc00;
+    background-color: var(--pokemon-art-shopping-website-headquarters-section-bg-color);
+    color: var(--pokemon-art-shopping-website-headquarters-section-color);
 }
 #playPark{
-    background-color:#7cfc00;
-    color:#fa8072;
+    background-color: var(--pokemon-art-shopping-website-headquarters-section-color);
+    color: var(--pokemon-art-shopping-website-nav-border-color);
 }
 #bonding{
-    background-color:#87cefa;
-    color:#ffff00;
+    background-color: var(--pokemon-art-shopping-website-bonding-section-bg-color);
+    color: var(--pokemon-art-shopping-website-email-and-portfolio-link-shadow-color);
 }
