@@ -2,6 +2,9 @@
     --pokemon-art-shopping-website-title-shadow-color: #0000ff;
     --pokemon-art-shopping-website-title-color: #da70d6;
     --pokemon-art-shopping-website-title-border-color: #ff0000;
+    --pokemon-art-shopping-website-nav-shadow-color: #ffa500;
+    --pokemon-art-shopping-website-nav-border-color: #fa8072;
+    --pokemon-art-shopping-website-box-bg-color: #ffebcd; 
 }
 html{
     background-image: url("https://tse3.mm.bing.net/th/id/OIP.dKz7ru7-DKlfIM83dvbpLgHaHa?cb=ucfimgc2&rs=1&pid=ImgDetMain&o=7&rm=3");
@@ -15,17 +18,17 @@ p, li{
     font-size:20pt;
 }
 #header{
-    text-shadow: 2px 2px #0000ff;
+    text-shadow: 2px 2px var(--pokemon-art-shopping-website-title-shadow-color);
     font-size: 50pt;
-    color: #da70d6;
+    color: var(--pokemon-art-shopping-website-title-color);
 }
 nav{
-    text-shadow: 1px 0px #ffa500;
+    text-shadow: 1px 0px var(--pokemon-art-shopping-website-nav-shadow-color);
     font-size: 20pt;
-    border: 5px solid #fa8072;
+    border: 5px solid var(--pokemon-art-shopping-website-nav-border-color);
 }
 #description, #special,#artpieces{
-    background-color: #ffebcd;
+    background-color: var(--pokemon-art-shopping-website-box-bg-color);
     padding:15px 10px;
     color: #8b4513;
     font-family:Brush Script MT, Brush Script Std, cursive;
