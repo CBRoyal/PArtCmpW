@@ -40,6 +40,12 @@
     right: auto;
 }
 #pokemon_art_shopping_website_main_webpage_section_navbar{
+    display: flex;
+    gap: 10px;
+    background-color: var(--pokemon-art-shopping-website-box-bg-color);
+    padding:15px 10px;
+    color: var(--pokemon-art-shopping-website-box-color);
+    font-family:Brush Script MT, Brush Script Std, cursive;
     text-shadow: 1px 0px var(--pokemon-art-shopping-website-nav-shadow-color);
     font-size: 20pt;
     border: 5px solid var(--pokemon-art-shopping-website-nav-border-color);
