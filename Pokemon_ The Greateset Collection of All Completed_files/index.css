@@ -51,7 +51,7 @@
     gap: 10px;
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
     padding: 15px 10px;
-    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-family: Brush Script MT, Brush Script Std, cursive;
     text-shadow: 1px 0px var(--pokemon-art-shopping-website-nav-shadow-color);
     font-size: 20pt;
     border: 5px solid var(--pokemon-art-shopping-website-nav-border-color);
@@ -76,7 +76,7 @@ p, li{
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
     padding: 15px 10px;
     color: var(--pokemon-art-shopping-website-box-color);
-    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-family: Brush Script MT, Brush Script Std, cursive;
     font-size: 65pt;
     border:5px solid var(--pokemon-art-shopping-website-box-border-color);
     margin: 15px 20px;
@@ -84,6 +84,7 @@ p, li{
 #pokemon_art_shopping_website_footer{
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
     text-shadow: 1px 1px var(--pokemon-art-shopping-website-title-shadow-color);
+    font-family: Brush Script MT, Brush Script Std, cursive;
     font-size: 20pt;
     color: var(--pokemon-art-shopping-website-title-color);
     border: 5px solid var(--pokemon-art-shopping-website-contact-section-border-color);
@@ -105,7 +106,7 @@ p, li{
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
     padding: 15px 10px;
     color: var(--pokemon-art-shopping-website-box-color);
-    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-family: Brush Script MT, Brush Script Std, cursive;
     font-size: 105pt;
     border: 5px solid var(--pokemon-art-shopping-website-box-border-color);
 }
