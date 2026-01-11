@@ -36,11 +36,11 @@
     gap: 10px;
     background-color: var(--pokemon-art-shopping-website-title-border-color);
 }
-#pokemon_art_shopping_website_main_navbar a:hover{
-   color: var(--pokemon-art-shopping-website-main-navbar-link-hover-color);
-}
 #pokemon_art_shopping_website_main_navbar a, #pokemon_art_shopping_website_main_navbar a:visited{
    color: var(--pokemon-art-shopping-website-main-navbar-link-color);
+}
+#pokemon_art_shopping_website_main_navbar a:hover{
+   color: var(--pokemon-art-shopping-website-main-navbar-link-hover-color);
 }
 #main_pokemon_art_shopping_website_image{
     left: auto;
@@ -51,12 +51,17 @@
     gap: 10px;
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
     padding: 15px 10px;
-    color: var(--pokemon-art-shopping-website-box-color);
     font-family:Brush Script MT, Brush Script Std, cursive;
     text-shadow: 1px 0px var(--pokemon-art-shopping-website-nav-shadow-color);
     font-size: 20pt;
     border: 5px solid var(--pokemon-art-shopping-website-nav-border-color);
     margin: 20px;
+}
+#pokemon_art_shopping_website_main_webpage_section_navbar a, #pokemon_art_shopping_website_main_webpage_section_navbar a:visited{
+    color: var(--pokemon-art-shopping-website-box-color);
+}
+#pokemon_art_shopping_website_main_webpage_section_navbar a:hover{
+    color: var(--pokemon-art-shopping-website-title-color);
 }
 p, li{
     font-size: 20pt;
