@@ -33,13 +33,16 @@
 #pokemon_art_shopping_website_main_navbar{
     display: flex;
     font-size: 50pt;
-    gap: 10px;
+    gap: 30px;
     background-color: var(--pokemon-art-shopping-website-title-border-color);
 }
-#pokemon_art_shopping_website_main_navbar a, #pokemon_art_shopping_website_main_navbar a:visited{
+#pokemon_art_shopping_website_main_navbar > ul{
+    list-style-type: none;
+}
+#pokemon_art_shopping_website_main_navbar > ul > a, #pokemon_art_shopping_website_main_navbar > ul > a:visited{
    color: var(--pokemon-art-shopping-website-main-navbar-link-color);
 }
-#pokemon_art_shopping_website_main_navbar a:hover{
+#pokemon_art_shopping_website_main_navbar > ul > a:hover{
    color: var(--pokemon-art-shopping-website-main-navbar-link-hover-color);
 }
 #main_pokemon_art_shopping_website_image{
