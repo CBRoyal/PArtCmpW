@@ -78,7 +78,7 @@ p, li{
 }
 #pokemon_art_shopping_website_footer{
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
-    text-shadow: 2px 2px var(--pokemon-art-shopping-website-title-shadow-color);
+    text-shadow: 1px 1px var(--pokemon-art-shopping-website-title-shadow-color);
     font-size: 20pt;
     color: var(--pokemon-art-shopping-website-title-color);
     border: 5px solid var(--pokemon-art-shopping-website-contact-section-border-color);
