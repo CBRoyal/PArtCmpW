@@ -59,7 +59,7 @@ p, li{
     color: var(--pokemon-art-shopping-website-title-color);
 }
 #pokemon_art_shopping_website_description, #pokemon_art_shopping_website_special_section,
-#artpieces{
+#pokemon_art_shopping_website_top_featured_artpieces{
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
     padding: 15px 10px;
     color: var(--pokemon-art-shopping-website-box-color);
