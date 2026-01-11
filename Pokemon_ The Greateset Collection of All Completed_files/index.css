@@ -39,6 +39,11 @@
     left: auto;
     right: auto;
 }
+#pokemon_art_shopping_website_main_webpage_section_navbar{
+    text-shadow: 1px 0px var(--pokemon-art-shopping-website-nav-shadow-color);
+    font-size: 20pt;
+    border: 5px solid var(--pokemon-art-shopping-website-nav-border-color);
+}
 p, li{
     font-size:20pt;
 }
@@ -46,11 +51,6 @@ p, li{
     text-shadow: 2px 2px var(--pokemon-art-shopping-website-title-shadow-color);
     font-size: 50pt;
     color: var(--pokemon-art-shopping-website-title-color);
-}
-nav{
-    text-shadow: 1px 0px var(--pokemon-art-shopping-website-nav-shadow-color);
-    font-size: 20pt;
-    border: 5px solid var(--pokemon-art-shopping-website-nav-border-color);
 }
 #description, #special,#artpieces{
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
