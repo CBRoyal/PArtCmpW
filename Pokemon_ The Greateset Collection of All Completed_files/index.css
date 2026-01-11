@@ -110,12 +110,12 @@ p, li{
     font-size: 105pt;
     border: 5px solid var(--pokemon-art-shopping-website-box-border-color);
 }
-#email, #storage_link, #email:visited, #storage_link:visited{
+#email, #copyright_link, #storage_link, #email:visited, #copyright_link:visited #storage_link:visited{
     text-shadow: 2px 2px var(--pokemon-art-shopping-website-email-and-storage-link-shadow-color);
     font-size: 20pt;
     color: var(--pokemon-art-shopping-website-email-and-storage-link-color);
 }
-#email:hover, #storage_link:hover{
+#email:hover, #copyright_link:hover, #storage_link:hover{
     color: var(--pokemon-art-shopping-website-title-border-color);
 }
 #ninetales{
