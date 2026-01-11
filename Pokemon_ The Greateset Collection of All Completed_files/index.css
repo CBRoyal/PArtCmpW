@@ -30,6 +30,8 @@
     border: 5px solid var(--pokemon-art-shopping-website-title-border-color);
 }
 #pokemon_art_shopping_website_main_navbar{
+    display: flex;
+    gap: 10px;
     color: var(--pokemon-art-shopping-website-main-navbar-link-color);
     background-color: var(--pokemon-art-shopping-website-title-border-color);
 }
