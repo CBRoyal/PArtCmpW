@@ -36,7 +36,7 @@
     gap: 10px;
     background-color: var(--pokemon-art-shopping-website-title-border-color);
 }
-#pokemon_art_shopping_website_main_navbar > a:hover{
+#pokemon_art_shopping_website_main_navbar a:hover{
    color: var(--pokemon-art-shopping-website-main-navbar-link-hover-color);
 }
 #pokemon_art_shopping_website_main_navbar a, #pokemon_art_shopping_website_main_navbar a:visited{
