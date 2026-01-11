@@ -57,6 +57,7 @@
     text-shadow: 1px 0px var(--pokemon-art-shopping-website-nav-shadow-color);
     font-size: 20pt;
     border: 5px solid var(--pokemon-art-shopping-website-nav-border-color);
+    margin: 20px;
 }
 p, li{
     font-size: 20pt;
