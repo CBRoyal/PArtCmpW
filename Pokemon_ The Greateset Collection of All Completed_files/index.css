@@ -34,13 +34,12 @@
     display: flex;
     font-size: 50pt;
     gap: 10px;
-    color: var(--pokemon-art-shopping-website-main-navbar-link-color);
     background-color: var(--pokemon-art-shopping-website-title-border-color);
 }
 #pokemon_art_shopping_website_main_navbar > a:hover{
    color: var(--pokemon-art-shopping-website-main-navbar-link-hover-color);
 }
-#pokemon_art_shopping_website_main_navbar > a:visited{
+#pokemon_art_shopping_website_main_navbar a, #pokemon_art_shopping_website_main_navbar a:visited{
    color: var(--pokemon-art-shopping-website-main-navbar-link-color);
 }
 #main_pokemon_art_shopping_website_image{
