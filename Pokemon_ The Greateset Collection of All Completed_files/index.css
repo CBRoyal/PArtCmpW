@@ -28,7 +28,7 @@
     color: var(--pokemon-art-shopping-website-title-color);
     border: 5px solid var(--pokemon-art-shopping-website-title-border-color);
 }
-#main_pokemon_art_website_image{
+#main_pokemon_art_shopping_website_image{
     left: auto;
     right: auto;
 }
