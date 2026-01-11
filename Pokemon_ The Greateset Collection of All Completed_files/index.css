@@ -58,7 +58,8 @@ p, li{
     font-size: 50pt;
     color: var(--pokemon-art-shopping-website-title-color);
 }
-#pokemon_art_shopping_website_description, #special,#artpieces{
+#pokemon_art_shopping_website_description, #pokemon_art_shopping_website_special_section,
+#artpieces{
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
     padding: 15px 10px;
     color: var(--pokemon-art-shopping-website-box-color);
