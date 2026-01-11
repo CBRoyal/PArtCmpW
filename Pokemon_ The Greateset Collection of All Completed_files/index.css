@@ -75,6 +75,7 @@ p, li{
     font-family:Brush Script MT, Brush Script Std, cursive;
     font-size: 65pt;
     border:5px solid var(--pokemon-art-shopping-website-box-border-color);
+    margin: 15px 20px;
 }
 #pokemon_art_shopping_website_footer{
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
