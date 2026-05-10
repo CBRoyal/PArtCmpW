@@ -123,36 +123,32 @@ p, li{
 #ninetales{
     background-color: var(--pokemon-art-shopping-website-email-and-storage-link-color);
     color: var(--pokemon-art-shopping-website-ninetales-section-color);
-    position: relative;
 }
 #northernLights{
     background-color: var(--pokemon-art-shopping-website-northern-lights-section-bg-color);
     color: var(--pokemon-art-shopping-website-email-and-storage-link-color);
-    position: relative;
 }
 #family{
     background-color: var(--pokemon-art-shopping-website-family-section-bg-color);
     color: var(--pokemon-art-shopping-website-family-section-color);
-    position: relative;
 }
 #autumn{
     background-color: var(--pokemon-art-shopping-website-ninetales-section-color);
     color: var(--pokemon-art-shopping-website-autumn-section-color);
-    position: relative;
 }
 #hq{
     background-color: var(--pokemon-art-shopping-website-headquarters-section-bg-color);
     color: var(--pokemon-art-shopping-website-headquarters-section-color);
-    position: relative;
 }
 #playPark{
     background-color: var(--pokemon-art-shopping-website-headquarters-section-color);
     color: var(--pokemon-art-shopping-website-nav-border-color);
-    position: relative;
 }
 #bonding{
     background-color: var(--pokemon-art-shopping-website-bonding-section-bg-color);
     color: var(--pokemon-art-shopping-website-email-and-storage-link-shadow-color);
+}
+.pokemon_art_shopping_website_top_featured_artpieces_boxes{
     position: relative;
 }
 .pokemon_art_shopping_website_product_images{
