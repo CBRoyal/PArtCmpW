@@ -38,7 +38,7 @@
     background-color: var(--pokemon-art-shopping-website-title-border-color);
     font-size: 20pt;
 }
-#pokemon_art_shopping_website_main_navbar a{
+#pokemon_art_shopping_website_main_navbar a, #pokemon_art_shopping_website_main_navbar a:visited{
     color: var(--pokemon-art-shopping-website-main-navbar-link-color);
 }
 #pokemon_art_shopping_website_main_navbar a:hover{
