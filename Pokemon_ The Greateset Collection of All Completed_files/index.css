@@ -155,3 +155,7 @@ p, li{
     color: var(--pokemon-art-shopping-website-email-and-storage-link-shadow-color);
     position: relative;
 }
+.pokemon_art_shopping_website_product_images{
+    position: absolute;
+    padding-left: 3px;
+}
