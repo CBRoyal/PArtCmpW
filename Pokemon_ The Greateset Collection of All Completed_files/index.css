@@ -36,6 +36,7 @@
 }
 #pokemon_art_shopping_website_main_navbar ul{
     display: flex;
+    flex-direction: row;
     list-style-type: none;
 }
 #pokemon_art_shopping_website_main_navbar ul a, #pokemon_art_shopping_website_main_navbar ul a:visited{
