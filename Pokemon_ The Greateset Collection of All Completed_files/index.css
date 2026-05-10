@@ -91,27 +91,6 @@ p, li{
     color: var(--pokemon-art-shopping-website-title-color);
     border: 5px solid var(--pokemon-art-shopping-website-contact-section-border-color);
 }
-#home{
-    position: initial;
-    left: 100px;
-    top: 150px;
-    text-shadow: 2px 2px var(--pokemon-art-shopping-website-title-shadow-color);
-    color: var(--pokemon-art-shopping-website-title-color);
-    font-size: 30pt;
-}
-#price{
-    text-shadow: 2px 2px var(--pokemon-art-shopping-website-title-shadow-color);
-    color: var(--pokemon-art-shopping-website-title-color);
-    font-size: 30pt;
-}
-#ninetalesDescription, #bondDescription{
-    background-color: var(--pokemon-art-shopping-website-box-bg-color);
-    padding: 15px 10px;
-    color: var(--pokemon-art-shopping-website-box-color);
-    font-family: Brush Script MT, Brush Script Std, cursive;
-    font-size: 105pt;
-    border: 5px solid var(--pokemon-art-shopping-website-box-border-color);
-}
 #email, #copyright_link, #storage_link, #email:visited, #copyright_link:visited #storage_link:visited{
     text-shadow: 2px 2px var(--pokemon-art-shopping-website-email-and-storage-link-shadow-color);
     font-size: 20pt;
