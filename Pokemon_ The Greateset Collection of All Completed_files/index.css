@@ -121,6 +121,7 @@ p, li{
     color: var(--pokemon-art-shopping-website-title-border-color);
 }
 .pokemon_art_shopping_website_product_images{
+    border: 5px solid transparent;
     padding-left: 12px;
 }
 #ninetales{
