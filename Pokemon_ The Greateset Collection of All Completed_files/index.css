@@ -150,6 +150,7 @@ p, li{
 }
 .pokemon_art_shopping_website_top_featured_artpieces_boxes{
     position: relative;
+    height: 470px;
 }
 .pokemon_art_shopping_website_product_images{
     position: absolute;
