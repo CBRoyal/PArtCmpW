@@ -31,8 +31,8 @@
     border: 5px solid var(--pokemon-art-shopping-website-title-border-color);
 }
 #pokemon_art_shopping_website_main_navbar{
-    background-color: var(--pokemon-art-shopping-website-title-border-color);
     display: flex;
+    background-color: var(--pokemon-art-shopping-website-title-border-color);
     color: var(--pokemon-art-shopping-website-main-navbar-link-color);
 }
 #pokemon_art_shopping_website_main_navbar ul a, #pokemon_art_shopping_website_main_navbar ul a:visited{
