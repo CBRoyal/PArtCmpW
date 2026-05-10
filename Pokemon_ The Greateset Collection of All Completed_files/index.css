@@ -31,9 +31,10 @@
     border: 5px solid var(--pokemon-art-shopping-website-title-border-color);
 }
 #pokemon_art_shopping_website_main_navbar{
-    font-size: 50pt;
+    font-size: 30pt;
     background-color: var(--pokemon-art-shopping-website-title-border-color);
     display: flex;
+    color: var(--pokemon-art-shopping-website-main-navbar-link-color);
 }
 #pokemon_art_shopping_website_main_navbar ul a, #pokemon_art_shopping_website_main_navbar ul a:visited{
    color: var(--pokemon-art-shopping-website-main-navbar-link-color);
