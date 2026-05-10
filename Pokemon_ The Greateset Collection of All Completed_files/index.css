@@ -120,6 +120,9 @@ p, li{
 #email:hover, #copyright_link:hover, #storage_link:hover{
     color: var(--pokemon-art-shopping-website-title-border-color);
 }
+.pokemon_art_shopping_website_product_images{
+    padding-left: 3px;
+}
 #ninetales{
     background-color: var(--pokemon-art-shopping-website-email-and-storage-link-color);
     color: var(--pokemon-art-shopping-website-ninetales-section-color);
