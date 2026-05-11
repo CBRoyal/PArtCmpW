@@ -45,8 +45,7 @@
    color: var(--pokemon-art-shopping-website-main-navbar-link-hover-color);
 }
 #main_pokemon_art_shopping_website_image{
-    left: auto;
-    right: auto;
+    margin-left: 100px;
 }
 #pokemon_art_shopping_website_main_webpage_section_navbar{
     display: flex;
