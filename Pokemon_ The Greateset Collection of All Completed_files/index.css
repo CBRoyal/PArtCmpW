@@ -29,7 +29,6 @@
 #pokemon_art_shopping_website_main_title{
     text-shadow: 2px 2px var(--pokemon-art-shopping-website-title-shadow-color);
     font-size: 50pt;
-    width: 100%;
     color: var(--pokemon-art-shopping-website-title-color);
     border: 5px solid var(--pokemon-art-shopping-website-title-border-color);
 }
