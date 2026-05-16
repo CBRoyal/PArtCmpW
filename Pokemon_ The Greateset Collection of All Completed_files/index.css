@@ -186,6 +186,9 @@ p, li{
     #pokemon_art_shopping_website_main_title{
         width: 75%;
     }
+    #pokemon_art_shopping_website_main_navbar{
+        width: 90%;
+    }
     #main_pokemon_art_shopping_website_image{
         width: 50%;
         margin-left: 50px;
