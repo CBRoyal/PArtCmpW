@@ -185,7 +185,6 @@ p, li{
 }
 .pokemon_art_shopping_website_product_images{
     position: absolute;
-    width: 100%;
     left: 500px;
 }
 @media (max-width: 700px){
