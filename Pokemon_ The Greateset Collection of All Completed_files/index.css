@@ -190,4 +190,8 @@ p, li{
         width: 50%;
         margin-left: 50px;
     }
+    #pokemon_art_shopping_website_description, #pokemon_art_shopping_website_special_section,
+    #pokemon_art_shopping_website_top_featured_artpieces{
+        margin-right: 5px;
+    }
 }
