@@ -217,8 +217,8 @@ p, li, #wikipedia-link{
         width: 40%;
     }
     .pokemon_art_shopping_website_product_images{
-        left: 310px;
-        width: 85%;
+        left: 305px;
+        width: 400px;
     }
 }
 @media (max-width: 500px){
