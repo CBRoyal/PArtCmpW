@@ -76,7 +76,7 @@ p, li{
     color: var(--pokemon-art-shopping-website-title-color);
 }
 #pokemon_art_shopping_website_description, #pokemon_art_shopping_website_special_section,
-#pokemon_art_shopping_website_top_featured_artpieces{
+#pokemon_art_shopping_website_top_featured_artpieces_section{
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
     padding: 15px 10px;
     color: var(--pokemon-art-shopping-website-box-color);
@@ -196,7 +196,7 @@ p, li{
     }
     #pokemon_art_shopping_website_description,
     #pokemon_art_shopping_website_special_section,
-    #pokemon_art_shopping_website_top_featured_artpieces{
+    #pokemon_art_shopping_website_top_featured_artpieces_section{
         margin-left: 5px;
         width: 90%;
     }
@@ -211,5 +211,25 @@ p, li{
     .pokemon_art_shopping_website_product_images{
         left: 360px;
         width: 60%;
+    }
+}
+@media (max-width: 500px){
+    #pokemon_art_shopping_website_main_title{
+        margin-left: 25px;
+    }
+    #pokemon_art_shopping_website_main_navbar{
+        margin-left: 5px;
+        width: 90%;
+    }
+    #pokemon_art_shopping_website_main_webpage_section_navbar{
+        margin-left: 25px;
+    }
+    #pokemon_art_shopping_website_description,
+    #pokemon_art_shopping_website_special_section,
+    #pokemon_art_shopping_website_top_featured_artpieces_section{
+        margin-left: 10px;
+    }
+    .pokemon_art_shopping_website_top_featured_artpieces_boxes{
+        margin-left: 5px;
     }
 }
