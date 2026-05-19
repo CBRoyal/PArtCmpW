@@ -212,8 +212,8 @@ p, li{
     }
     .pokemon_art_shopping_website_product_images{
         left: 0px;
-        top: 75px;
-        width: 85%;
+        top: 85px;
+        width: 95%;
     }
 }
 @media (max-width: 500px){
@@ -240,7 +240,7 @@ p, li{
         height: 20%;
     }
     .pokemon_art_shopping_website_product_images{
-        top: 90px;
+        top: 100px;
         width: 95%; 
     }
 }
