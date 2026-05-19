@@ -67,7 +67,7 @@
 #pokemon_art_shopping_website_main_webpage_section_navbar a:hover{
     color: var(--pokemon-art-shopping-website-title-color);
 }
-p, li{
+p, li, #wikipedia-link{
     font-size: 20pt;
 }
 #header{
