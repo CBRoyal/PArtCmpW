@@ -223,7 +223,7 @@ p, li, #wikipedia-link{
     }
     #pokemon_art_shopping_website_main_navbar{
         gap: 35px;
-        margin-left: 5px;
+        margin-left: 10px;
         width: 90%;
     }
     #pokemon_art_shopping_website_main_webpage_section_navbar{
@@ -251,6 +251,7 @@ p, li, #wikipedia-link{
         height: 20%;
     }
     .pokemon_art_shopping_website_product_images{
+        left: 0px;
         top: 88px;
         width: 400px;
         height: 300px; 
