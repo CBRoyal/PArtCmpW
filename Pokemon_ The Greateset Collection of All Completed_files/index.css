@@ -184,8 +184,6 @@ p, li{
 }
 @media (max-width: 800px){
     #pokemon_art_shopping_website_main_title{
-        padding-left: 5px;
-        padding-right: 10px;
         margin-left: 25px;
         width: 85%;
     }
@@ -219,6 +217,8 @@ p, li{
 }
 @media (max-width: 500px){
     #pokemon_art_shopping_website_main_title{
+        padding-left: 5px;
+        padding-right: 10px;
         margin-left: 25px;
     }
     #pokemon_art_shopping_website_main_navbar{
