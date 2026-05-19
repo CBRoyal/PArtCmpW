@@ -182,7 +182,7 @@ p, li{
     position: absolute;
     left: 500px;
 }
-@media (max-width: 700px){
+@media (max-width: 800px){
     #pokemon_art_shopping_website_main_title{
         margin-left: 25px;
         width: 85%;
@@ -203,20 +203,15 @@ p, li{
     }
     #pokemon_art_shopping_website_footer{
         margin-left: 15px;
-        margin-top: 80px;
         width: 90%;
     }
     .pokemon_art_shopping_website_top_featured_artpieces_boxes{
         margin-left: 15px;
-        margin-bottom: 110px;
         width: 90%;
-        height: 50%;
     }
     .pokemon_art_shopping_website_product_images{
         left: 0px;
-        top: 90px;
-        width: 95%;
-        height: 400px;
+        width: 75%;
     }
 }
 @media (max-width: 500px){
