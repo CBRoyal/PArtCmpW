@@ -234,6 +234,7 @@ p, li{
     }
     .pokemon_art_shopping_website_top_featured_artpieces_boxes{
         margin-left: 5px;
+        margin-bottom: 100px;
         width: 85%;
         height: 20%;
     }
