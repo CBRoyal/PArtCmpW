@@ -232,4 +232,7 @@ p, li{
     .pokemon_art_shopping_website_top_featured_artpieces_boxes{
         margin-left: 5px;
     }
+    .pokemon_art_shopping_website_product_images{
+        left: 330px;
+    }
 }
