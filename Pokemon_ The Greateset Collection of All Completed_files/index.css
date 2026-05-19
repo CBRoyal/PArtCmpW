@@ -206,12 +206,13 @@ p, li{
     }
     .pokemon_art_shopping_website_top_featured_artpieces_boxes{
         margin-left: 10px;
+        margin-bottom: 110px;
         width: 80%;
         height: 50%;
     }
     .pokemon_art_shopping_website_product_images{
         left: 0px;
-        top: 70px;
+        top: 75px;
         width: 85%;
         height: 85%;
     }
