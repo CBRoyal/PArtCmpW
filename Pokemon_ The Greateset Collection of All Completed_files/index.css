@@ -196,6 +196,9 @@ p, li, #wikipedia-link{
         gap: 25px;
         width: 85%;
     }
+    #pokemon_art_shopping_website_main_webpage_section_navbar{
+        width: 85%;
+    }
     #pokemon_art_shopping_website_description,
     #pokemon_art_shopping_website_special_section,
     #pokemon_art_shopping_website_top_featured_artpieces_section{
@@ -227,8 +230,6 @@ p, li, #wikipedia-link{
         width: 90%;
     }
     #pokemon_art_shopping_website_main_webpage_section_navbar{
-        display: flex;
-        flex-wrap: wrap;
         margin-left: 25px;
     }
     #pokemon_art_shopping_website_description,
