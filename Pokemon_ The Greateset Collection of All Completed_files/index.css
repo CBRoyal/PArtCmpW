@@ -219,6 +219,8 @@ p, li{
         margin-left: 25px;
     }
     #pokemon_art_shopping_website_main_navbar{
+        display: flex;
+        flex-wrap: wrap;
         margin-left: 5px;
         width: 90%;
     }
