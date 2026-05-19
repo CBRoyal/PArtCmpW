@@ -235,14 +235,18 @@ p, li{
     #pokemon_art_shopping_website_top_featured_artpieces_section{
         margin-left: 10px;
     }
+    #wikipedia-link{
+        width: 90%;
+    }
     .pokemon_art_shopping_website_top_featured_artpieces_boxes{
         margin-left: 5px;
-        margin-bottom: 100px;
-        width: 85%;
+        margin-bottom: 210px;
+        width: 95%;
         height: 20%;
     }
     .pokemon_art_shopping_website_product_images{
-        top: 95px;
-        width: 95%; 
+        top: 90px;
+        width: 200px;
+        height: 200px; 
     }
 }
