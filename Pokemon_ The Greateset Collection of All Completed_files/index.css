@@ -183,7 +183,7 @@ p, li, #wikipedia-link{
 }
 .pokemon_art_shopping_website_product_images{
     position: absolute;
-    left: 500px;
+    left: 450px;
 }
 @media (max-width: 800px){
     #pokemon_art_shopping_website_main_title{
