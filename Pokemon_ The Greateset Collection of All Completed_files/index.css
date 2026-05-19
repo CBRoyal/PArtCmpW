@@ -189,7 +189,10 @@ p, li{
         width: 85%;
         margin-left: 50px;
     }
-    #pokemon_art_shopping_website_main_navbar, #pokemon_art_shopping_website_description,
+    #pokemon_art_shopping_website_main_navbar{
+        width: 80%;
+    }
+    #pokemon_art_shopping_website_description,
     #pokemon_art_shopping_website_special_section,
     #pokemon_art_shopping_website_top_featured_artpieces, #pokemon_art_shopping_website_footer{
         margin-left: 5px;
