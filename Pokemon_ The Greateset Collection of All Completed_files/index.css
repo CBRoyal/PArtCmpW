@@ -90,6 +90,7 @@ p, li{
     text-shadow: 1px 1px var(--pokemon-art-shopping-website-title-shadow-color);
     font-family: Brush Script MT, Brush Script Std, cursive;
     font-size: 20pt;
+    width: 90%;
     color: var(--pokemon-art-shopping-website-title-color);
     border: 5px solid var(--pokemon-art-shopping-website-contact-section-border-color);
 }
