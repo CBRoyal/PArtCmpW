@@ -214,6 +214,7 @@ p, li{
         left: 0px;
         top: 85px;
         width: 95%;
+        height: 400px;
     }
 }
 @media (max-width: 500px){
