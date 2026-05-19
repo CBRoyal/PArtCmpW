@@ -249,7 +249,7 @@ p, li, #wikipedia-link{
     }
     #wikipedia-link{
         font-size: 20pt;
-        width: 30px;
+        margin-right: 15px;
     }
     .pokemon_art_shopping_website_top_featured_artpieces_boxes{
         margin-left: 5px;
