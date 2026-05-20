@@ -229,11 +229,11 @@ p, li, #wikipedia-link{
     }
     #pokemon_art_shopping_website_main_navbar{
         gap: 35px;
-        margin-left: 10px;
+        margin-left: 5px;
         width: 90%;
     }
     #pokemon_art_shopping_website_main_webpage_section_navbar{
-        margin-left: 25px;
+        margin-left: 20px;
     }
     #pokemon_art_shopping_website_description,
     #pokemon_art_shopping_website_top_featured_artpieces_section{
