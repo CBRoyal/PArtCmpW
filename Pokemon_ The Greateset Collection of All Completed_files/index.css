@@ -251,7 +251,8 @@ p, li, #wikipedia-link{
         width: 85%;
     }
     #wikipedia-link{
-        margin-right: 25px;
+        position: absolute;
+        margin-right: 5px;
     }
     #pokemon_art_shopping_website_footer{
         width: 90%;
