@@ -250,6 +250,9 @@ p, li, #wikipedia-link{
         margin-right: 10px;
         width: 85%;
     }
+    #pokemon-world-reference-paragraph{
+        position: relative;
+    }
     #wikipedia-link{
         position: absolute;
         margin-right: 5px;
