@@ -96,6 +96,7 @@ p, li, #wikipedia-link{
     width: 90%;
     padding-left: 10px;
     padding-right: 5px;
+    margin-left: 10px;
     color: var(--pokemon-art-shopping-website-title-color);
     border: 5px solid var(--pokemon-art-shopping-website-contact-section-border-color);
 }
