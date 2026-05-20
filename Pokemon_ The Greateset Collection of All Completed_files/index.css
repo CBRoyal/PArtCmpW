@@ -246,7 +246,9 @@ p, li, #wikipedia-link{
         margin-left: 5px;
     }
     #pokemon_art_shopping_website_special_section{
-        margin-left: 0px;
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 5px;
         margin-right: 10px;
         width: 85%;
     }
