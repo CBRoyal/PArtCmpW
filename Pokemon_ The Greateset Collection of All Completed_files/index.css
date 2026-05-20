@@ -227,6 +227,9 @@ p, li, #wikipedia-link{
         padding-right: 10px;
         margin-left: 15px;
     }
+    #main_pokemon_art_shopping_website_image{
+        margin-left: 25px;
+    }
     #pokemon_art_shopping_website_main_navbar{
         gap: 35px;
         margin-left: 0px;
