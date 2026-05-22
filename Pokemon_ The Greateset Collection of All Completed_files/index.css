@@ -209,7 +209,8 @@ p, li, #wikipedia-link{
         width: 80%;
     }
     #pokemon_art_shopping_website_description, #pokemon_art_shopping_website_special_section,
-    #pokemon_art_shopping_website_top_featured_artpieces_section{
+    #pokemon_art_shopping_website_top_featured_artpieces_section,
+    #pokemon_art_shopping_website_footer{
         width: 90%;
     }
     #pokemon_art_shopping_website_footer{
