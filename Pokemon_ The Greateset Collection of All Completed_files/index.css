@@ -208,6 +208,10 @@ p, li, #wikipedia-link{
         margin-left: 15px;
         width: 80%;
     }
+    #pokemon_art_shopping_website_description, #pokemon_art_shopping_website_special_section,
+    #pokemon_art_shopping_website_top_featured_artpieces_section{
+        width: 90%;
+    }
     #pokemon_art_shopping_website_footer{
         margin-left: 19px;
     }
