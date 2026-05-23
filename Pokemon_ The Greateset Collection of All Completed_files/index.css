@@ -234,7 +234,7 @@ p, li, #wikipedia-link{
         margin-left: 15px;
     }
     #main_pokemon_art_shopping_website_image{
-        margin-left: 25px;
+        margin-left: 20px;
     }
     #pokemon_art_shopping_website_main_navbar{
         gap: 35px;
@@ -242,7 +242,7 @@ p, li, #wikipedia-link{
         width: 82%;
     }
     #pokemon_art_shopping_website_main_webpage_section_navbar{
-        margin-left: 15px;
+        margin-left: 10px;
         width: 70%;
     }
     #pokemon_art_shopping_website_description, #pokemon_art_shopping_website_special_section,
@@ -263,7 +263,7 @@ p, li, #wikipedia-link{
     .pokemon_art_shopping_website_product_images{
         left: 0px;
         top: 88px;
-        width: 385px;
+        width: 387px;
         height: 300px; 
     }
     #autumn-shrine-image{
