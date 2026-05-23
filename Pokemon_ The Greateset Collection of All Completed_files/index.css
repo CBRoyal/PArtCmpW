@@ -57,7 +57,7 @@
 #pokemon_art_shopping_website_main_webpage_section_navbar{
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 50px;
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
     padding: 15px 40px;
     font-family: Brush Script MT, Brush Script Std, cursive;
