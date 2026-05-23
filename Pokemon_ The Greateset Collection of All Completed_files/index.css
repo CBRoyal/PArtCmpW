@@ -200,6 +200,7 @@ p, li, #wikipedia-link{
         margin-left: 30px;
     }
     #pokemon_art_shopping_website_main_navbar{
+        padding-left: 20px;
         margin-left: 10px;
         gap: 35px;
         width: 80%;
