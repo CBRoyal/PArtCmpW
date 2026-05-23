@@ -63,7 +63,7 @@
     font-family: Brush Script MT, Brush Script Std, cursive;
     font-size: 20pt;
     border: 5px solid var(--pokemon-art-shopping-website-nav-border-color);
-    margin: 20px;
+    margin: 20px 40px;
 }
 #pokemon_art_shopping_website_main_webpage_section_navbar a, #pokemon_art_shopping_website_main_webpage_section_navbar a:visited{
     color: var(--pokemon-art-shopping-website-box-color);
