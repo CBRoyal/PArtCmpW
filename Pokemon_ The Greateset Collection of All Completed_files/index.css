@@ -41,7 +41,7 @@
     flex-wrap: wrap;
     margin-right: 15px;
     background-color: var(--pokemon-art-shopping-website-title-border-color);
-    padding: 5px;
+    padding-left: 20px;
     background-color: var(--pokemon-art-shopping-website-title-border-color);
     font-size: 20pt;
 }
