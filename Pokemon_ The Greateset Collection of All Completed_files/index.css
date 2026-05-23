@@ -83,7 +83,8 @@ p, li, #wikipedia-link{
 #pokemon_art_shopping_website_description, #pokemon_art_shopping_website_special_section,
 #pokemon_art_shopping_website_top_featured_artpieces_section{
     background-color: var(--pokemon-art-shopping-website-box-bg-color);
-    padding: 15px 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     color: var(--pokemon-art-shopping-website-box-color);
     font-family: Brush Script MT, Brush Script Std, cursive;
     font-size: 65pt;
