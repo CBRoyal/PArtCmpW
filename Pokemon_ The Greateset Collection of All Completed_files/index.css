@@ -86,7 +86,6 @@ p, li, #wikipedia-link{
     color: var(--pokemon-art-shopping-website-box-color);
     font-family: Brush Script MT, Brush Script Std, cursive;
     font-size: 65pt;
-    width: 100%;
     border:5px solid var(--pokemon-art-shopping-website-box-border-color);
     margin: 20px;
 }
